@@ -103,6 +103,9 @@ react-playground/
 └── README.md
 ```
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details.
+
 ### Contact
 
 For any questions or suggestions, please reach out to [inaveed.contact@gmail.com](mailto:your-email@example.com).
